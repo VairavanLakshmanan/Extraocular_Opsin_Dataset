@@ -1,5 +1,5 @@
 # Extraocular_Opsin_Dataset
-Alignment files and phylogenetic tree  
+# Alignment files and phylogenetic tree  
 These are the alignment files and phylogentic tree files that were analyzed & used in the manuscript entitled '***Discovery of a body-wide photosensory array that matures in an adult-like animal and mediates eye-brain independent movement and arousal***'.
 
 <b>Phylogenetic analysis of opsins</b><br/>
