@@ -22,5 +22,5 @@ Shettigar et al_Seqs_added_Smed_Alignment_ to Ramirez et al.aln.iqtree<br/>
 Shettigar et al_Seqs_added_Smed_Alignment_ to Ramirez et al.aln.contree<br/>
 
 <b>Sequences used in the alignment files </b><br/><br/>
-Ramirez_etal_2016_GBE_MAR23-15_90sim_opsin.aln
-Planarian opsin sequences - Genbank accession: MW465947 - MW465950
+Ramirez_etal_2016_GBE_MAR23-15_90sim_opsin.aln </br>
+Planarian opsin sequences - Genbank accession: MW465947 - MW465950 </br></br>
